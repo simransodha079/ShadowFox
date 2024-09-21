@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="task_title" type="id" />
+    <item name="priority" type="id" />
+    <item name="complete_checkbox" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="add_button" type="id" />
+    <item name="sort_button" type="id" />
+    <item name="task_priority" type="id" />
+    <item name="task_complete" type="id" />
+    <item name="edit_task_title" type="id" />
+    <item name="edit_task_priority" type="id" />
+    <item name="remove_completed_button" type="id" />
+    <item name="edit_button" type="id" />
+</resources>
